@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+.vscode/
+links.txt
+node_modules/
