@@ -97,6 +97,8 @@ These shape how the agent thinks, communicates, and structures work — independ
 
 ## Testing
 
+- **[sametcelikbicak/coverage-guard](https://github.com/sametcelikbicak/coverage-guard)** — Enforces 100% test coverage for JS/TS projects. Auto-detects test runner (Vitest, Jest, react-scripts, etc.), scans source files, and writes/updates tests until full coverage is achieved.
+- **[sametcelikbicak/flaky-test-detector](https://github.com/sametcelikbicak/flaky-test-detector)** — Detects, analyzes, and eliminates flaky tests. Runs tests multiple times, categorizes root causes (async timing, shared state, race conditions), and applies targeted fixes.
 - *Looking for a curated test-driven CLAUDE.md. The Anthropic [Claude Code best practices doc](https://www.anthropic.com/engineering/claude-code-best-practices) covers TDD-with-agents but isn't packaged as a skill.*
 
 ---
@@ -127,6 +129,7 @@ These shape how the agent thinks, communicates, and structures work — independ
 
 - **[obra/superpowers](https://github.com/obra/superpowers)** — see [General Coding Behavior](#general-coding-behavior). The methodology layer of this is what makes it shine.
 - **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Anthropic-managed directory of plugins for Claude Code. The official baseline.
+- **[sametcelikbicak/task-decomposer](https://github.com/sametcelikbicak/task-decomposer)** — Decomposes complex requests into structured, AI-friendly task sequences. Handles goal articulation, dependency mapping, atomic prompt slicing, and context budget planning.
 
 ---
 
