@@ -129,7 +129,7 @@ These shape how the agent thinks, communicates, and structures work — independ
 
 - **[obra/superpowers](https://github.com/obra/superpowers)** — see [General Coding Behavior](#general-coding-behavior). The methodology layer of this is what makes it shine.
 - **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** — Anthropic-managed directory of plugins for Claude Code. The official baseline.
-- **[sametcelikbicak/rolecraft](https://github.com/sametcelikbicak/rolecraft)** — Zero-dependency CLI to install AI agent skills as roles & behaviors from any source. Works with opencode, claude-code, cursor, and all spec-compliant agents.
+- **[sametcelikbicak/rolecraft](https://github.com/rolecraft-sh/rolecraft)** — Zero-dependency CLI to install AI agent skills as roles & behaviors from any source. Works with opencode, claude-code, cursor, and all spec-compliant agents.
 - **[sametcelikbicak/task-decomposer](https://github.com/sametcelikbicak/task-decomposer)** — Decomposes complex requests into structured, AI-friendly task sequences. Handles goal articulation, dependency mapping, atomic prompt slicing, and context budget planning.
 
 ---
